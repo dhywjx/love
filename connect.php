@@ -5,7 +5,7 @@
  *Date:2018/2/13
  *Time:10:47
  */
-$host="http://139.224.117.254";
+$host="139.224.117.254";
 $db_user="wangjx";
 $db_pass="Wjx1996";
 $db_name="test";
